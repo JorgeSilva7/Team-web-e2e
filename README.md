@@ -1,1 +1,1 @@
-[gitlabci](./gitlab-ci.yml)
+[gitlabci](./.gitlab-ci.yml)
